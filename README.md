@@ -4,7 +4,6 @@ This project is a Telecom Customer Analytics Dashboard that provides a comprehen
 The dashboard visualizes a range of metrics across multiple aspects of the telecom business, including customer retention, churn, revenue, service features, and geographical insights. It is a powerful tool that helps identify areas for improvement and monitor key performance indicators (KPIs) on a continual basis also the Dashboard contain both white and night mode.
 
 ![Sk_Telecom Overview Dashboard](images/sk_telecom_white.png)
-![Sk_Telecom Overview Dashboard](images/Home%20bigger.jpg)
 ![Sk_Telecom Overview Dashboard](images/sk_telecom_dark.png)
 
 Key Features:
