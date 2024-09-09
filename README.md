@@ -44,7 +44,7 @@ Marital Status Segmentation: An additional filter to analyze customer satisfacti
 8. Phone and Internet Service Insights:
 Phone Service Types: Breakdown of customers using different phone service types (one-line service, multiple-line service, and no phone service).
 Internet Service Types: Analysis of customers using fiber optic, DSL, or no internet service, with fiber optic being the dominant service.
-# Customers by Phone Service Type and Churned Customers by Year: A year-on-year comparison of customer numbers and churn rates.
+Customers by Phone Service Type and Churned Customers by Year: A year-on-year comparison of customer numbers and churn rates.
 Technology Stack:
 Microsoft Power BI / Tableau: Interactive dashboards and visual analytics built using business intelligence tools.
 Data Sources: The dataset comprises customer information, service usage, billing details, churn reasons, and geographical data.
